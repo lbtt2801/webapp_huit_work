@@ -3,12 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "a2cc28612a8b4859d0f97f67b54d4c39",
+const RESOURCES = {"flutter_bootstrap.js": "c775ce2a84b045bdcbc00ac880ff2ea6",
 "version.json": "8e657de1dbdd0ad4853b34565605a05b",
 "index.html": "3c9241ee8b78c46e52522f61ce443b07",
 "/": "3c9241ee8b78c46e52522f61ce443b07",
 "js/js_library.js": "bffbcddb5d14265428dd3ffa8ca31e7a",
-"main.dart.js": "f87d5b88cb1ed12c105e23639c6daced",
+"main.dart.js": "213ed6da460799f24d6ef2371d757204",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -26,7 +26,7 @@ const RESOURCES = {"flutter_bootstrap.js": "a2cc28612a8b4859d0f97f67b54d4c39",
 "assets/packages/flex_color_picker/assets/opacity.png": "49c4f3bcb1b25364bb4c255edcaaf5b2",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "4cabe8f4c12672fee9e4be6754258e23",
-"assets/fonts/MaterialIcons-Regular.otf": "54d3feb8a98cd5bf731acd1336b3c5bb",
+"assets/fonts/MaterialIcons-Regular.otf": "22a700f07a5adbcb9be91e8c4145f9b8",
 "assets/assets/images/icSwitchOn.png": "68bc026f27c75c3b22602d97ef9b2633",
 "assets/assets/images/logoVietNam.png": "c70a314225401a903eeadcc70280634c",
 "assets/assets/images/icGiaoViec.png": "79fcc3a17c15c88d7a60d6a2f4da1001",
